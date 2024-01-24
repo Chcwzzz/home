@@ -10,6 +10,11 @@
     "link": "https://npm.kaochang.me/"
   },
   {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": ""
+  },
+  {
     "icon": "Compass",
     "name": "GPT",
     "link": "https://kaochang.me/"
