@@ -15,6 +15,11 @@
     "link": ""
   },
   {
+    "icon": "Fire",
+    "name": "探针",
+    "link": "https://status.kaochang.me/"
+  },
+  {
     "icon": "Compass",
     "name": "GPT",
     "link": "https://kaochang.me/"
