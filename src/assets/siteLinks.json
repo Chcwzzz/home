@@ -16,8 +16,8 @@
   },
   {
     "icon": "Fire",
-    "name": "探针",
-    "link": "https://status.kaochang.me/"
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "Compass",
@@ -31,7 +31,7 @@
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "探针",
+    "link": "https://status.kaochang.me/"
   }
 ]
